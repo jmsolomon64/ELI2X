@@ -1,0 +1,28 @@
+Header {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    background-color: rgb(7, 7, 7);
+    width: 100%;
+    border: solid black 1px;
+}
+
+.header {
+    align-self: center; /*Sets the items in the center from the top */
+    justify-self: center; /*Sets the items in the center from the left */
+    color: white;
+    text-decoration: none;
+}
+.title {
+    color: #eea024;
+    font-size: 1.2rem;
+}
+
+.small {
+    font-size: 1.5rem;
+}
+
+.small :hover .small{
+    color: #eea024;
+    transition: all 1s;
+}
+

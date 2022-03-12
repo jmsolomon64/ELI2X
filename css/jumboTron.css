@@ -1,0 +1,25 @@
+.jumboHead {
+    margin-left: 8%;
+    padding-top: 14%;
+    margin-top: 0;
+    font-size: 2rem;
+    color: transparent;
+}
+
+.jumboText {
+    margin-left: 10%;
+    margin-bottom: 20%;
+    font-size: 1.5rem;
+    color: transparent;
+}
+
+.jumboTron {
+    background:linear-gradient(rgba(0, 0, 0, 0.104), rgba(0, 0, 0, 0.713)), url("../assets/yellowJacket.jpg");
+    background-size: cover;
+    width: 100%;
+    
+}
+
+
+
+

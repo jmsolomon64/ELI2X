@@ -1,0 +1,48 @@
+.listen {
+    
+}
+
+
+.mediaPlayer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.listenIcon {
+    height: 100px;
+    width: 100px;
+}
+
+.iconWrapper {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutTitle {
+    color: #9c6a18;
+    font-size: 2rem;
+}
+
+.aboutText {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.aboutTitle, .aboutText {
+    text-align: center;
+    list-style: none;
+}
+
+.aboutArticle {
+    background-color: rgba(32, 32, 32, 0.412);
+    width: 70%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 25px;
+}
+

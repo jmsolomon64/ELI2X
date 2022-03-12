@@ -1,0 +1,19 @@
+@import "./headerFooter.css";
+@import "./jumboTron.css";
+@import "./aboutArtist.css";
+@import "./news.css";
+@import "./listen.css";
+
+body{
+    margin: 0;
+    background-color: rgb(2, 2, 2);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.bodyTitle .title {
+    font-size: 4rem;
+    text-align: center;
+    text-decoration: underline;
+}
