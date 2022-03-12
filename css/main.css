@@ -17,3 +17,6 @@ body{
     text-align: center;
     text-decoration: underline;
 }
+html {
+    scroll-behavior: smooth;
+}
