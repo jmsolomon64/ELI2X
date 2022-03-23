@@ -13,6 +13,8 @@
 .listenIcon {
     height: 100px;
     width: 100px;
+    min-width: 50px;
+    min-height: 50px;
 }
 
 .iconWrapper {

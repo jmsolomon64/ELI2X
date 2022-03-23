@@ -5,6 +5,7 @@ Header {
     width: 100%;
     border: solid black 1px;
     position: fixed;
+    height: 80px;
 }
 
 .header {
@@ -20,6 +21,7 @@ Header {
 
 .small {
     font-size: 1.5rem;
+    
 }
 
 .small :hover .small{
