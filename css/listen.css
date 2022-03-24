@@ -27,6 +27,7 @@
 .aboutTitle {
     color: #9c6a18;
     font-size: 2rem;
+    margin-bottom: 5px;
 }
 
 .aboutText {
@@ -48,5 +49,8 @@
     margin-top: 25px;
 }
 
-
+.songName {
+    color: #63420e;
+    font-size: 1.2rem;
+}
 
